@@ -1,2 +1,5 @@
 *.bak
 aa/
+build/
+bb/.settings
+**/.settings
